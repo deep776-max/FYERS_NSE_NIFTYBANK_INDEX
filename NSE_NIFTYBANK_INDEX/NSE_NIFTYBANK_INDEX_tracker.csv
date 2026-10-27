@@ -1,2 +1,3 @@
 run_name,ticker,symbol,rounding_multiple,index_available,futures_available,lowest_strike,highest_strike,timeframes
 NSE_NIFTYBANK_INDEX_20260929_110633,NIFTYBANK-INDEX,BANKNIFTY,100,True,True,47500,61600,5S|1|5|60|D
+NSE_NIFTYBANK_INDEX_20261027_125743,NIFTYBANK-INDEX,BANKNIFTY,100,True,True,50100,61600,5S|1|5|60|D
